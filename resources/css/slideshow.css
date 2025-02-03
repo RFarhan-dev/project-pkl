@@ -14,6 +14,15 @@
     100% {
         background-image: url("/img/viewpln2.jpeg");
     }
+    66% {
+        background-image: url("/img/viewpln2.jpeg");
+    }
+    33% {
+        background-image: url("/img/viewpln.jpeg");
+    }
+    0% {
+        background-image: url("/img/viewpln2.jpeg");
+    }
 }
 
 .slideshow-bg {

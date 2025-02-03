@@ -8,7 +8,7 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 
     <link href='img/favicon.ico' rel='shortcut icon'>
-    <script src="https://cdn.tailwindcss.com"></script>
+
 
     <style>
         /* Slideshow Background */
